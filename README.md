@@ -36,3 +36,14 @@ export default {
     ],
   ],
 };
+```
+
+In this example, the theme is determined based on the THEME environment variable, and the corresponding configuration file is loaded dynamically. You can create multiple Tailwind CSS configuration files (e.g. tailwind.config.light.js and tailwind.config.dark.js) and switch between them based on the value of THEME.
+
+# Contributing
+
+If you would like to contribute to this project, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+# License
+
+This project is licensed under the [MIT License](LICENSE.md).
