@@ -46,4 +46,4 @@ If you would like to contribute to this project, please follow the guidelines in
 
 # License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
