@@ -15,7 +15,7 @@ npm install --save-dev tailwindcss autoprefixer
 Then, you can install the plugin:
 
 ```bash
-npm install --save-dev vite-tailwind-theme-plugin
+npm install --save-dev @tiarebalbi/plugin-tailwind-themes
 ```
 
 ## Usage
