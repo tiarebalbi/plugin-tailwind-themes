@@ -1,0 +1,18 @@
+{
+  "name": "@tiarebalbi/plugin-tailwind-themes",
+  "version": "1.0.0",
+  "description": "Vite plugin that compiles custom Tailwind CSS configurations for different themes",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^3.0.0",
+    "autoprefixer": "^10.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tiarê Balbi Bonamini",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
