@@ -36,4 +36,4 @@ Your pull request will be reviewed by the maintainers, who will either approve i
 
 ## License
 
-By contributing to this project, you agree to license your contributions under the [MIT License](LICENSE.md).
+By contributing to this project, you agree to license your contributions under the [MIT License](LICENSE).
