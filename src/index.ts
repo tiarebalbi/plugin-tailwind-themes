@@ -1,8 +1,8 @@
 import tailwind from "tailwindcss";
 import autoprefixer from "autoprefixer";
 
-module.exports = function (api, options) {
-    api.chainWebpack((config) => {
+export default function (api: any, options: any) {
+    api.chainWebpack((config: any) => {
         config.module
             .rule("css")
             .oneOf("normal")
@@ -15,4 +15,4 @@ module.exports = function (api, options) {
                 ],
             });
     });
-};
+}
